@@ -20,4 +20,5 @@ func aboutAllocation() {
 
 	m := make(map[int]string)
 	assert(len(m) == __int__) // make() also creates maps
+	asdf
 }
